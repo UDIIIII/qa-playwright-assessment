@@ -13,6 +13,7 @@ npx playwright test
 
 ## Structure
 
+Used POM for this
 pages
 tests
 utils
